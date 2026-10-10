@@ -6,4 +6,5 @@ Language: C++
 IDE: VS Code
 Version Control: Git/Github
 
+Competitions involving informatics: International Olympiads in Informatics, USACO.
 
